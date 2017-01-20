@@ -49,6 +49,8 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 
+1. [Awaria](https://github.com/kamilpek/ror-awaria). [Awaria](https://awaria.herokuapp.com/)
+
 **Uwaga:**
 
 * W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
