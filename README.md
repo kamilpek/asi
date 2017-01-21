@@ -4,7 +4,7 @@ Terminy oddania projektów:
 
 | projekt    | MVC     |    deadline |
 |------------|---------|-------------|
-| zaliczenie | 3 × 1   | 09.11.2016  |
+| zaliczenie | 3 × 1   | 19.11.2016  |
 | egzamin    | 3 × 3   | 16.01.2017  |
 
 Wszystkie projekty powinny korzystać z Ruby w wersji co najmniej **2.3.1**
@@ -27,8 +27,12 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 1. Aplikacja CRUD:
   - [My Gists](https://github.com/rails4/my_gists5)
+1. MVC w Rails:
+  - Viktoria Kotsurenko, [The Basics of MVC in Rails: Skinny Everything](https://www.sitepoint.com/the-basics-of-mvc-in-rails-skinny-everything/)
+  - Viktoria Kotsurenko, [7 Design Patterns to Refactor MVC Components in ](https://www.sitepoint.com/7-design-patterns-to-refactor-mvc-components-in-rails/)
 1. Rails API:
-  - [API example](api.md)
+  - [json:api](http://jsonapi.org) – a specification for building apis in JSON
+  - [json:api example](https://github.com/rails4/jsonapi_borrowers_5.0)
 1. David Heinemeier Hansson.
    [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0):
   - [Action Cable Examples](https://github.com/rails/actioncable-examples)
@@ -42,7 +46,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. Michael Hartl,
    [Ruby on Rails Tutorial](https://www.railstutorial.org/book) –
    learn web development with Rails
-1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).
+1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/)
 1. [Edge Rails API](http://edgeapi.rubyonrails.org/)
 1. [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
   - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
@@ -55,11 +59,6 @@ News:
 
 
 ### Apps
-
-1. Rob Guilfoyle.
-   Building Cross Model Search with Ember, Rails, and Elasticsearch:
-  - [Part I](http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/)
-  - [Part II](http://blog.codeship.com/building-cross-model-search-with-ember-rails-and-elasticsearch-part-2/)
 
 Meta:
 
